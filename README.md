@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darrennickerson
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and react
+- 👀 I’m interested in software development
+- 🌱 Full stack javascript developer
 
 
 <!---
